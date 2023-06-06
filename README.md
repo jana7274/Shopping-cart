@@ -13,5 +13,4 @@ Reacts js
 ## LinkedIn Post
 ### https://www.linkedin.com/posts/janarthanan-h-6a8895210_internship-ineuron-reactjs-activity-7071860046216708098-z5mE?utm_source=share&utm_medium=member_desktop
 ## Wireframe
-### https://www.figma.com/proto/vU7gkONcjO9E9Uc51dgofX/ineuron-Shopping-Cart-React-Internship-Project?node-id=1-48&scaling=contain
-
+### https://www.figma.com/file/tm1nG0KeeLZ2ZCRB6pemTg/ineuron-Shopping-Cart-React-Internship-Project-(Wireframe)?type=design&node-id=0%3A1&t=VJTSgp9Uvo5mtf0a-1
