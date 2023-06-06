@@ -11,6 +11,7 @@ Reacts js
 ## Demo Video
 ### https://drive.google.com/file/d/1LIBAWwSTFS3TXZKuB1GVQAspvzA2IipN/view?usp=drive_link
 ## LinkedIn Post
-
+### https://www.linkedin.com/posts/janarthanan-h-6a8895210_internship-ineuron-reactjs-activity-7071860046216708098-z5mE?utm_source=share&utm_medium=member_desktop
 ## Wireframe
+### https://www.figma.com/proto/vU7gkONcjO9E9Uc51dgofX/ineuron-Shopping-Cart-React-Internship-Project?node-id=1-48&scaling=contain
 
