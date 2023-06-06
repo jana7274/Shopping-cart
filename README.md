@@ -12,5 +12,5 @@ Reacts js
 ### https://drive.google.com/file/d/1LIBAWwSTFS3TXZKuB1GVQAspvzA2IipN/view?usp=drive_link
 ## LinkedIn Post
 
-## Screenshots
- ### C:\Users\krish\OneDrive\Pictures\Shopping-cart -img\React App - Google Chrome 06-06-2023 11_50_31.png
+## Wireframe
+
